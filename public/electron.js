@@ -15,8 +15,8 @@ require('update-electron-app')({
 
 function createWindow() {
   mainWindow = new BrowserWindow({
-    width: 900,
-    height: 680,
+    width: 1366,
+    height: 768,
     webPreferences: { nodeIntegration: true },
   });
   mainWindow.loadURL(

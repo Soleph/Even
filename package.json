@@ -4,7 +4,8 @@
   "private": true,
   "author": {
     "name": "Soleph",
-    "email": "nathan.klerper@gmail.com"
+    "email": "nathan.klerper@gmail.com",
+    "url": "https://github.com/Soleph"
   },
   "description": "Even Project",
   "main": "public/electron.js",
